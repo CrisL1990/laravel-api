@@ -2462,7 +2462,7 @@ var render = function () {
   var _c = _vm._self._c || _h
   return _c("main", [
     _c("div", { staticClass: "container" }, [
-      _c("h1", [_vm._v("Elenco depost")]),
+      _c("h1", [_vm._v("Elenco depost!")]),
       _vm._v(" "),
       _c(
         "div",

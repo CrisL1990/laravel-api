@@ -3,7 +3,7 @@
     <main> 
 
         <div class="container">
-            <h1>Elenco depost</h1>
+            <h1>Elenco depost!</h1>
 
             <div class="row">
                 <div class="col-4" v-for="post in posts" :key="post.id">
