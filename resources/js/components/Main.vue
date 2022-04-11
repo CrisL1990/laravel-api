@@ -52,7 +52,10 @@ export default {
             this.currentPage = response.data.results.current_page;
             this.posts = response.data.results.data;
             this.lastPage = response.data.results.last_page;
+            console.log(response.data.results.data);
         });
+
+        
     }
   },
 
